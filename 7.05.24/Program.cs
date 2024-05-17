@@ -48,14 +48,6 @@ namespace _7._05._24
         }
     }
 
-    public class TakeawayOrder : Order
-    {
-    }
-
-    public class DeliveryOrder : Order
-    {
-    }
-
     public class OrderStatus
     {
         public const string Pending = "Очікується";

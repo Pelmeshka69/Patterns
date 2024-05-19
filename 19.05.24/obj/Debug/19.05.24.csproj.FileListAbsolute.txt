@@ -1,0 +1,7 @@
+E:\Шаг\19.05.24\19.05.24\bin\Debug\19.05.24.exe.config
+E:\Шаг\19.05.24\19.05.24\bin\Debug\19.05.24.exe
+E:\Шаг\19.05.24\19.05.24\bin\Debug\19.05.24.pdb
+E:\Шаг\19.05.24\19.05.24\obj\Debug\19.05.24.csproj.AssemblyReference.cache
+E:\Шаг\19.05.24\19.05.24\obj\Debug\19.05.24.csproj.CoreCompileInputs.cache
+E:\Шаг\19.05.24\19.05.24\obj\Debug\19.05.24.exe
+E:\Шаг\19.05.24\19.05.24\obj\Debug\19.05.24.pdb

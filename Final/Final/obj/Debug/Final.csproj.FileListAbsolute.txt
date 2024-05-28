@@ -1,0 +1,7 @@
+E:\Шаг\Final\Final\bin\Debug\Final.exe.config
+E:\Шаг\Final\Final\bin\Debug\Final.exe
+E:\Шаг\Final\Final\bin\Debug\Final.pdb
+E:\Шаг\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+E:\Шаг\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+E:\Шаг\Final\Final\obj\Debug\Final.exe
+E:\Шаг\Final\Final\obj\Debug\Final.pdb
